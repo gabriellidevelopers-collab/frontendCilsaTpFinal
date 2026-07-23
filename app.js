@@ -2,7 +2,7 @@
 // TaskFlow - Frontend Application Logic
 // ============================================
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://backendfinaltp.onrender.com/api';
 
 // DOM Elements
 const taskForm = document.getElementById('task-form');
